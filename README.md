@@ -1,7 +1,7 @@
 # CarlCoin [CARL, Ĉ] Integration/Staging Tree
 www.Carlco.in
 
-![CarlCoin](http://www.bite.ca/wp-content/uploads/2013/01/do-you-even-lift-bird.jpg)
+![CarlCoin](http://imgur.com/XJDPXnz)
 
 ## What is CarlCoin? - Do you even lift bro?
 CarlCoin is like Bitcoin, but based on Litecoin, and also sweet, sweet gains.
