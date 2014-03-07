@@ -1,7 +1,7 @@
 # CarlCoin [CARL, Ĉ] Integration/Staging Tree
 www.Carlco.in
 
-![CarlCoin](http://imgur.com/XJDPXnz)
+<a href="http://imgur.com/XJDPXnz"><img src="http://i.imgur.com/XJDPXnz.jpg" title="Hosted by imgur.com" /></a>
 
 ## What is CarlCoin? - Do you even lift bro?
 CarlCoin is like Bitcoin, but based on Litecoin, and also sweet, sweet gains.
