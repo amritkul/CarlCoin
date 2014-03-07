@@ -16,7 +16,7 @@ Intro
 ---------------------
 Carl Coin is a free open source bro-to-bro electronic cash system that is
 completely bro'd out. Meaning if one bro goes down, we keep on going, because we ain't pussies.
-Users hold their tags to their own stacks and push with each other, to realize those sweet sweet gains.
+Users hold their tags to their own stacks and push each other to realize those sweet, sweet gains.
 
 
 
