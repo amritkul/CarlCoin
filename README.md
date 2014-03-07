@@ -1,13 +1,13 @@
-# Dogecoin [DOGE, Ð] Integration/Staging Tree
-http://dogecoin.com/
+# CarlCoin [CARL, ☪] Integration/Staging Tree
+www.Carlco.in
 
-![CarlCoin](http://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
+![CarlCoin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmCVmuRxgdiQZ2Dc01XwHFCZPvD41IcSS8rWEeFaQISNRfN2-a)
 
-## What is CarlCoin? - Such coin
+## What is CarlCoin? - Do you even lift bro?
 CarlCoin is like Bitcoin, but based on Litecoin, and also sweet, sweet gains.
 http://CarlCo.in/
 
-## License - Bro license
+## License - Bro code
 CarlCoin is released under the terms of the MIT license. See [COPYING](COPYING)
 for more information or see http://opensource.org/licenses/MIT.
 
@@ -15,7 +15,7 @@ for more information or see http://opensource.org/licenses/MIT.
 Developers work in their own trees, then submit pull requests when they think
 their feature or bug fix is ready.
 
-## Very Much Frequently Asked Questions
+## Frequently Asked Questions
 
 ### How much Carl can exist?
 Early 2015 (approximately a year and a half after release) there will be approximately 200,000,000,000 coins.
@@ -43,7 +43,7 @@ Special reward system: Random block rewards
 
 600,000+ — 10,000 Reward (flat)
 
-### Do you even lift bro? 
+### Build up some muscles
 
     sudo apt-get install build-essential \
                          libssl-dev \
